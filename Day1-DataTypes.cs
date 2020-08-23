@@ -25,7 +25,7 @@ class Solution {
             string c = Console.ReadLine();
 
             Console.WriteLine(i + a);
-            Console.WriteLine((d + b).ToString("F1"));
+            Console.WriteLine((d + b).ToString("F1"));//F1 used to print number after decimal point
             Console.WriteLine(s + c);
 
 
